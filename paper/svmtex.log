@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.8.13)  4 DEC 2021 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2021.8.13)  4 DEC 2021 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,57 +341,59 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 57.
-
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-
- []
-
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--84
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 65--84
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--84
+Underfull \hbox (badness 10000) in paragraph at lines 67--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--84
+Underfull \hbox (badness 10000) in paragraph at lines 67--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--84
+Underfull \hbox (badness 10000) in paragraph at lines 67--86
 
  []
 
 
-Overfull \hbox (4.53418pt too wide) in paragraph at lines 65--84
+Underfull \hbox (badness 10000) in paragraph at lines 67--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--86
+
+ []
+
+
+Overfull \hbox (4.53418pt too wide) in paragraph at lines 67--86
 []$\U/msa/m/n/12 O[]\OML/cmm/m/it/12 `\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 y\OT1/c
 mr/m/n/12 ) = \OMS/cmsy/m/n/12 jj\OML/cmm/m/it/12 w\OMS/cmsy/m/n/12 jj \OT1/cmr
 /m/n/12 + \OML/cmm/m/it/12 C \OMS/cmsy/m/n/12 ^^C [][]\OT1/cmr/m/n/12 (\OMS/cms
@@ -400,20 +402,17 @@ cmr/m/n/12 ) = [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--84
+Underfull \hbox (badness 10000) in paragraph at lines 67--86
 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <./simulation.png, id=8, 1677.26625pt x 451.6875pt>
 File: ./simulation.png Graphic file (type png)
 <use ./simulation.png>
-Package pdftex.def Info: ./simulation.png  used on input line 93.
+Package pdftex.def Info: ./simulation.png  used on input line 95.
 (pdftex.def)             Requested size: 335.44731pt x 90.33589pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
 
  []
 
@@ -421,132 +420,143 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--94
 <./iris.png, id=20, 1677.26625pt x 451.6875pt>
 File: ./iris.png Graphic file (type png)
 <use ./iris.png>
-Package pdftex.def Info: ./iris.png  used on input line 97.
+Package pdftex.def Info: ./iris.png  used on input line 99.
 (pdftex.def)             Requested size: 335.44731pt x 90.33589pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--98
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
 
  []
 
 [3 <./simulation.png> <./iris.png>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 105.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 107.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Overfull \hbox (41.20845pt too wide) in paragraph at lines 115--115
+Overfull \hbox (41.20845pt too wide) in paragraph at lines 117--117
 []   \OT1/pcr/m/n/12 X_train = np.array(standardize(train.drop(columns=['label'
 ])))[] 
  []
 
 
-Overfull \hbox (26.80846pt too wide) in paragraph at lines 115--115
+Overfull \hbox (26.80846pt too wide) in paragraph at lines 117--117
 []   \OT1/pcr/m/n/12 X_test = np.array(standardize(test.drop(columns=['label'])
 ))[] 
  []
 
 
-Overfull \hbox (120.40842pt too wide) in paragraph at lines 125--125
+Overfull \hbox (120.40842pt too wide) in paragraph at lines 127--127
 []\OT1/pcr/m/n/12 def __init__(self, learning_rate, regularization_parameter, m
 ax_iterations):[] 
  []
 
 [4]
-Overfull \hbox (134.80841pt too wide) in paragraph at lines 165--165
+Overfull \hbox (134.80841pt too wide) in paragraph at lines 167--167
 []         \OT1/pcr/m/n/12 if (hinge_cur > hinge_prev and (n_features == 2 or n
 _features == 3)):[] 
  []
 
 
-Overfull \hbox (19.60846pt too wide) in paragraph at lines 171--171
+Overfull \hbox (19.60846pt too wide) in paragraph at lines 173--173
 []   \OT1/pcr/m/n/12 return 1 if dot(self.W, transpose(x)) + self.b >= 0 else -
 1[] 
  []
 
 [5]
-Overfull \hbox (127.60841pt too wide) in paragraph at lines 216--216
+Overfull \hbox (127.60841pt too wide) in paragraph at lines 218--218
 []   \OT1/pcr/m/n/12 plt.scatter(data[0], data[1], c=data['label'].map({-1:'blu
 e',1:'orange'}))[] 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 
-Overfull \hbox (44.02878pt too wide) in paragraph at lines 226--237
+Overfull \hbox (44.02878pt too wide) in paragraph at lines 228--239
  [] 
  []
 
 <./sim1.png, id=36, 536.0025pt x 376.40625pt>
 File: ./sim1.png Graphic file (type png)
 <use ./sim1.png>
-Package pdftex.def Info: ./sim1.png  used on input line 240.
+Package pdftex.def Info: ./sim1.png  used on input line 242.
 (pdftex.def)             Requested size: 160.80199pt x 112.92273pt.
 <./sim2.png, id=37, 536.0025pt x 376.40625pt>
 File: ./sim2.png Graphic file (type png)
 <use ./sim2.png>
-Package pdftex.def Info: ./sim2.png  used on input line 241.
+Package pdftex.def Info: ./sim2.png  used on input line 243.
 (pdftex.def)             Requested size: 160.80199pt x 112.92273pt.
 <./sim3.png, id=38, 536.0025pt x 376.40625pt>
 File: ./sim3.png Graphic file (type png)
 <use ./sim3.png>
-Package pdftex.def Info: ./sim3.png  used on input line 242.
+Package pdftex.def Info: ./sim3.png  used on input line 244.
 (pdftex.def)             Requested size: 160.80199pt x 112.92273pt.
 
-Overfull \hbox (60.17467pt too wide) in paragraph at lines 238--243
+Overfull \hbox (60.17467pt too wide) in paragraph at lines 240--245
 [] [] [] 
  []
 
 
-Overfull \hbox (41.02878pt too wide) in paragraph at lines 245--256
+Underfull \hbox (badness 10000) in paragraph at lines 240--245
+
+ []
+
+
+Overfull \hbox (41.02878pt too wide) in paragraph at lines 247--258
  [] 
  []
 
-<./iris1.png, id=39, 536.0025pt x 376.40625pt>
+[7 <./sim1.png> <./sim2.png> <./sim3.png>]
+<./iris1.png, id=46, 536.0025pt x 376.40625pt>
 File: ./iris1.png Graphic file (type png)
 <use ./iris1.png>
-Package pdftex.def Info: ./iris1.png  used on input line 258.
+Package pdftex.def Info: ./iris1.png  used on input line 260.
 (pdftex.def)             Requested size: 160.80199pt x 112.92273pt.
-<./iris2.png, id=40, 536.0025pt x 376.40625pt>
+<./iris2.png, id=47, 536.0025pt x 376.40625pt>
 File: ./iris2.png Graphic file (type png)
 <use ./iris2.png>
-Package pdftex.def Info: ./iris2.png  used on input line 259.
+Package pdftex.def Info: ./iris2.png  used on input line 261.
 (pdftex.def)             Requested size: 160.80199pt x 112.92273pt.
-<./iris3.png, id=41, 536.0025pt x 376.40625pt>
+<./iris3.png, id=48, 536.0025pt x 376.40625pt>
 File: ./iris3.png Graphic file (type png)
 <use ./iris3.png>
-Package pdftex.def Info: ./iris3.png  used on input line 260.
+Package pdftex.def Info: ./iris3.png  used on input line 262.
 (pdftex.def)             Requested size: 160.80199pt x 112.92273pt.
 
-Overfull \hbox (60.17467pt too wide) in paragraph at lines 257--261
+Overfull \hbox (60.17467pt too wide) in paragraph at lines 259--263
 [] [] [] 
  []
 
-[7 <./sim1.png> <./sim2.png> <./sim3.png>] [8 <./iris1.png> <./iris2.png> <./ir
-is3.png>] (./svmtex.aux) ) 
+
+Overfull \hbox (29.68349pt too wide) in paragraph at lines 279--282
+\OT1/ptm/m/n/12 https://ocw.mit.edu/courses/sloan-school-of-management/15-097-p
+rediction-machine-learning-
+ []
+
+[8 <./iris1.png> <./iris2.png> <./iris3.png>] (./svmtex.aux) ) 
 Here is how much of TeX's memory you used:
  5117 strings out of 492615
  71907 string characters out of 6131390
- 152664 words of memory out of 5000000
+ 151664 words of memory out of 5000000
  8935 multiletter control sequences out of 15000+600000
  19913 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,9n,43p,974b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8
-r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
->
-Output written on svmtex.pdf (8 pages, 271039 bytes).
+{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on svmtex.pdf (8 pages, 271381 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream

@@ -44,8 +44,10 @@
 
 \begin{document}
 	
-	\title{Fall 2021: MAS4112 Final Project\\Support Vector Machine}
-	\author{Branislav Kesic}
+	\title{Fall 2021: MAP4112 Final Project\\Support Vector Machine}
+	\author{Author: Branislav Kesic\\UCF\\Professor: Teng Zhang\\
+		https://github.com/branisk/SVM
+	}
 	\date{\today}
 	\maketitle
 	
@@ -239,7 +241,7 @@ def plot(self, X, Y):
 	\\
 	\includegraphics[scale=.3]{./sim1.png}
 	\includegraphics[scale=.3]{./sim2.png}
-	\includegraphics[scale=.3]{./sim3.png}
+	\includegraphics[scale=.3]{./sim3.png}\\
 	\subsection{Iris Results}
 	\begin{center}
 		\begin{tabular}{||c c c c c c||} 
@@ -272,5 +274,10 @@ def plot(self, X, Y):
 	The weights were removed since it consists of 117 entries for W, but can be found in the jupyter notebook provided in the github link.
 	\section{Conclusion}
 	Overall the results for binary classification using this support vector machine were substantially accurate.  Very high classification accuracy was achieved in training and testing all of the datasets.  The results for the multiclass classification were a bit under par, and could be improved possibly with a one-vs-all method, or with more personalized tweaks to the methods involved in classification.  The mushroom dataset has good results, but is not recommended for use in a real-life environment as it cannot guarantee perfect results.  The mushroom edibility classification could also be improved with additional accuracy measurements such as keeping track of false-negatives and false-positives, in order to improve it's accuracy for production ready models.
+	
+	\section{References}
+	https://mml-book.github.io/book/mml-book.pdf\\
+	https://ocw.mit.edu/courses/sloan-school-of-management/15-097-prediction-machine-learning-and-statistics-spring-2012/datasets/iris\_info.txt\\
+	https://archive.ics.uci.edu/ml/datasets/mushroom
 	
 \end{document}
